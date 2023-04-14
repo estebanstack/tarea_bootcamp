@@ -7,7 +7,7 @@ public class Main{
     }
     
 
-class Coche {
+static class Coche {
     public int puertas = 4;
     public void AñadirPuertas(){
         this.puertas++;
